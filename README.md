@@ -149,7 +149,6 @@ Check for delivery status will show the delivery status after 24 Hours._
     Select * from place_courier;
     ~~~
 
-
 8. Now, Feedback feature allows the user to give the feedback for the User Experience.
 If the user wants to delete his/her feedback or to edit the feedback, we provided the feature of *Delete Feedback* which performs the **DELETE Operation**
 
@@ -171,8 +170,9 @@ _All the operations whatever the user will do will be updated on the database. Y
     ~~~
     Select * from staff;
     ~~~
+    
 10. Now, To retrieve the details of all courier shipments from the tracking table, you can use the following SQL query.
-    -This query will return all rows from the tracking table, displaying information about each courier shipment, including the courier ID, location, status, and timestamp.
+- This query will return all rows from the tracking table, displaying information about each courier shipment, including the courier ID, location, status, and timestamp.
     
     ~~~
      Select * from tracking;
