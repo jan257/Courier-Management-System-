@@ -12,12 +12,22 @@ Rapid Delivery Management System is a web-based application designed to facilita
 - **Feedback Submission**: Allows users to provide feedback on their delivery experience, enabling continuous improvement of service quality.
 - **Responsive Design**: Utilizes Bootstrap framework for responsive and mobile-friendly user interfaces, ensuring optimal user experience across devices.
 
+  ## Technologies Used
+
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: PHP
+- **Database**: MySQL
+- **Framework**: Bootstrap 5
+- **Web Server**: Apache
+- **Version Control**: Git
+
+
 ## Installation
 
 1. Clone the repository to your local machine or download the ZIP file of the project.
    
 ~~~
-git clone https://github.com/your-username/rapid-delivery.git
+git clone https://github.com/jan257/Courier-Management-System-.git
 ~~~
 
 2. Install XAMPP or a similar web server software if you haven't already.
@@ -176,14 +186,6 @@ _All the operations whatever the user will do will be updated on the database. Y
 3. Track the status of your courier order using the tracking ID provided upon order placement.
 4. Provide feedback on your delivery experience to help improve service quality.
 
-## Technologies Used
-
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: PHP
-- **Database**: MySQL
-- **Framework**: Bootstrap 5
-- **Web Server**: Apache
-- **Version Control**: Git
 
 ## Author
 
