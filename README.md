@@ -104,8 +104,7 @@ git clone https://github.com/jan257/Courier-Management-System-.git
     courier_id VARCHAR(20),
     location VARCHAR(255),
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    status VARCHAR(50)
-);
+    status VARCHAR(50));
 
     ~~~
 
@@ -123,6 +122,7 @@ git clone https://github.com/jan257/Courier-Management-System-.git
         KEY `sno` (`sno`)
         );
     ~~~
+    
 5. Move the project files (login folder) into the htdocs folder in your XAMPP installation directory.
 
     - Inside the login folder, go to partials, then to _dbconnect(php file).
